@@ -4,9 +4,9 @@
 #使用方式:./resume.sh -> 按提示输入指令 -> /Users/userName/backup/,/Users/userName/目标目录/
 
 #备份目录
-#backupDir="/Users/zhoujingwei/Desktop/shell/backup/"
+#backupDir="/Users/userName/Desktop/shell/backup/"
 #恢复目录
-#resumeDir="/Users/zhoujingwei/Desktop/shell/"
+#resumeDir="/Users/userName/Desktop/shell/"
 #备份到备份目录
 #参数$1为备份目录，参数$2为恢复目录
 function resume(){
